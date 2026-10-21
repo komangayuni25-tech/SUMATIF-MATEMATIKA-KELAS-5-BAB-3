@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif MATEMATIKA Kelas 5 Bilangan Pecahan",
+  "description": "Aplikasi Tes Sumatif Matematika Kelas 5 SD Negeri 3 Loloan Timur materi Bilangan Pecahan (Membandingkan, Mengurutkan, Penjumlahan, Pengurangan) dengan 45 butir soal, analisis butir matriks respon siswa, kisi-kisi soal, unduh PDF naskah & hasil, dan panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
